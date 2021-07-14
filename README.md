@@ -1,0 +1,2 @@
+# technology-design-mine
+myself
